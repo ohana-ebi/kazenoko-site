@@ -436,4 +436,5 @@ footer.site-footer .wrap {
   gap: 16px;
 }
 footer.site-footer a { color: #FDEDE0; }
-footer.site-footer .fine { color: #C99A78; font-size: .8rem; margin-top: 10px; }
+footer.site-footer .brand { color: #FFFFFF; }
+footer.site-footer .fine { color: #E8C4A6; font-size: .8rem; margin-top: 10px; }
