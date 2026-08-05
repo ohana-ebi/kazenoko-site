@@ -64,9 +64,10 @@ header.site-header {
   margin: 0 auto;
   padding: 12px 24px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  gap: 10px 16px;
 }
 
 .brand {
@@ -77,6 +78,8 @@ header.site-header {
   display: flex;
   align-items: center;
   gap: 10px;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 .brand img {
   height: 46px;
